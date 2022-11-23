@@ -1,0 +1,23 @@
+{
+  "name": "database-mysql",
+  "version": "1.0.1",
+  "description": "Manage MySQL database using Node.js and Sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Sequelize",
+    "MySQL",
+    "Database",
+    "Associations",
+    "Relationship"
+  ],
+  "author": "yusufrizalh <rizal@inixindo.co.id>",
+  "license": "INIX",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.7"
+  }
+}
